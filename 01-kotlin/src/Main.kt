@@ -21,13 +21,7 @@ fun main (args:Array<String>){
     val sueldo = 12.20
     val apellidoProfesor = 'a'
     val fechaDeNacimiento = Date()
-
-    if (sueldo ==12.20){
-        else{
-
-        }
-
-    }
+    
     when (sueldo){
         12.20 -> print ("Sueldo Normal")
         -12.20 -> print("Sueldo negativo")
