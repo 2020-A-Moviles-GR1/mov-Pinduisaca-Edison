@@ -88,6 +88,56 @@ fun main (args:Array<String>){
         }
     println(respuestaFilter)
     println(arregloCumpleanios)
+
+    // Any -> OR (Some)
+    // All -> AND (Every)
+    // AND -> TRUE, Todo lo demas falso
+    // OR -> TODO es falso, lo demas era verdadero
+    // 1) Devolver una expresion (TRUE o FALSE)
+    // 2) Devuelve un Booleano
+    // (30, 31, 22, 23, 20)
+    val respuestaAny = arregloCumpleanios
+        .any { iterador: Int ->
+            return@any iterador < 25
+        }
+    println(respuestaAny)
+    val respuestaAll : Boolean = arregloCumpleanios
+        .all { iterador : Int ->
+            return@all iterador > 18
+        }
+    println(respuestaAll)
+
+
+    // Reduce
+    // 1) Devuelve el acumulado
+    // 2) En que valor empieza
+    // Devuelve un numero
+    // (30, 31, 22, 23, 20)
+    // ("a", "b", "c", "d")
+    // "abcd"
+    val respuestaReduce = arregloCumpleanios // Acumulador 0
+        .reduce { acumulador, iteracion ->
+            return@reduce acumulador + iteracion
+        }
+    println(respuestaReduce)
+
+    val respuestaFold = arregloCumpleanios
+        .fold(
+            100,
+            { acumulador, iteracion ->
+                return@fold acumulador - iteracion
+            }
+        )
+    println(respuestaFold)
+    // forEach -> nada
+    // map -> Arreglo
+    // filter -> Arreglo
+    // all -> Booleano
+    // any -> Booleano
+    // reduce -> Valor
+    // fold -> Valor
+
+
 }
 
 
@@ -101,6 +151,44 @@ fun calcularSueldo(
     } else {
         return sueldo * tasa
     }
+
+    // Clases Abstractas
+
+    abstract class NumerosJava {  // val nuevosNumeros = Numeros(1,2)
+        protected val numeroUno: Int
+        private val numeroDos: Int
+
+        constructor(uno: Int, dos: Int) {
+            numeroUno = uno
+            numeroDos = dos
+        }
+    }
+
+    abstract class Numeros( // val nuevosNumeros = Numeros(1,2)
+        protected val numeroUno: Int,
+        protected val numeroDos: Int
+    ) {
+    }
+
+    class Suma(
+        uno: Int,
+        dos: Int
+    ) : Numeros(uno, dos) {
+        fun sumar():Int{
+            // this.uno
+            return this.numeroUno + this.numeroDos
+        }
+    }
+
+    class SumaDos(
+        public var uno: Int,
+        public var dos: Int
+    ) : Numeros(uno, dos) {
+        fun sumar():Int{
+            this.uno
+            this.dos
+            return this.numeroUno + this.numeroDos
+        }
 
 }
 
