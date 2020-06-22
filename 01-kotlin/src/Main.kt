@@ -137,8 +137,12 @@ fun main (args:Array<String>){
     // reduce -> Valor
     // fold -> Valor
 
+    val nuevoNumeroUno = SumarDosNumerosDos (1,1)
+    val nuevoNumeroDos = SumarDosNumerosDos (null,1)
+    val nuevoNumeroTres = SumarDosNumerosDos (1,null)
+    val nuevoNumeroCuatro = SumarDosNumerosDos (null,null)
 
-}
+}// Cerrado de Main
 
 
 fun calcularSueldo(
@@ -146,12 +150,12 @@ fun calcularSueldo(
         sueldo: Double,          //Requeridos!
         calculoEspecial: Int? = null//Pueden ser nulos
 ): Double {
-    if (calculoEspecial != null){
+    if (calculoEspecial != null) {
         return sueldo * tasa * calculoEspecial
     } else {
         return sueldo * tasa
     }
-
+}
     // Clases Abstractas
 
     abstract class NumerosJava {  // val nuevosNumeros = Numeros(1,2)
@@ -165,8 +169,8 @@ fun calcularSueldo(
     }
 
     abstract class Numeros( // val nuevosNumeros = Numeros(1,2)
-        protected val numeroUno: Int,
-        protected val numeroDos: Int
+        protected var numeroUno: Int,
+        protected var numeroDos: Int
     ) {
     }
 
@@ -193,5 +197,34 @@ fun calcularSueldo(
 }
 
 fun imprimirMensaje(): Unit { //Unit  = Void
-    print("")
+    print("")}
+
+
+class SumarDosNumerosDos(
+    uno: Int,
+    dos: Int
+) : Numeros(uno, dos) {
+    init {
+        println("Hola INIT")
+    }
+    constructor(uno: Int?, dos: Int) : this(
+        if (uno == null) 0 else uno,
+        dos
+    ) {
+        print("Hola 1")
+    }
+
+    constructor(uno: Int, dos: Int?) : this(
+        uno,
+        if (dos == null) 0 else dos
+    ) {
+        print("Hola 2")
+    }
+
+    constructor(uno: Int?, dos: Int?) : this(
+        if (uno == null) 0 else uno,
+        if (dos == null) 0 else dos
+    ) {
+        print("Hola 3")
+    }
 }
