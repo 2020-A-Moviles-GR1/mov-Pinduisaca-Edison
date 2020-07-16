@@ -1,10 +1,10 @@
 import java.sql.*
 import java.util.*
-
+/*
 class DBC {
     private var conn: Connection? = null
-    internal val username = "ep"
-    internal val password = "Epn_sa_4045560"
+    private val username = "ep"
+    private val password = "Epn_sa_4045560"
 
     fun executeMySQLQuery() {
         var stmt: Statement? = null
@@ -67,4 +67,4 @@ class DBC {
             ex.printStackTrace()
         }
     }
-}
+}*/
