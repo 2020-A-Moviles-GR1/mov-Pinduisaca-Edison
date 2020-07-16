@@ -3,6 +3,7 @@ package com.example.moviles
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import kotlinx.android.synthetic.main.activity_b_list_view.*
@@ -31,10 +32,29 @@ class BListViewActivity : AppCompatActivity() {
         lv_numeros.adapter = adaptador
 
         lv_numeros
-            .onItemClickListener = AdapterView.OnItemClickListener {
-                parent, view, position, id ->
+            .onItemClickListener = AdapterView.OnItemClickListener { parent, view, position, id ->
             Log.i("list-view", "Posicion $position")
         }
+
+        btn_anadir_entrenador
+            .setOnClickListener {
+        anadirEntrenador(
+            adaptador,
+            listaEntrenadores
+        )
+    }
+
+    }
+
+    fun anadirEntrenador(
+        adaptador: ArrayAdapter<Entrenador>,
+        listaEntrenador: ArrayList<Entrenador>
+
+    ) {
+        listaEntrenador.add(
+            Entrenador("Nuevo","Entrenaador")
+        )
+        adaptador.notifyDataSetChanged()
 
     }
 }
