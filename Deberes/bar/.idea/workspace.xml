@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="526110bb-34f3-45d0-ba21-01f172b40d15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/menuBar.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vista/menuBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VistaPrincipal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cocteles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ingredientes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bar_sonthy_v1/bar_sonthy_v1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bar_sonthy_v1/productos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bar_sonthy_v1/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bar_sonthy_v1/src/bar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bar_sonthy_v1/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-android/app/src/main/java/com/example/moviles/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-android/app/src/main/java/com/example/moviles/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deberes/DBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deberes/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Deberes/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/DBC.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../src/DBC.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ebumgDNZjmJRYEFDFDZQ99Jjit" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Bar" type="JetRunConfigurationType">
+      <module name="bar" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="VistaPrincipalKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526110bb-34f3-45d0-ba21-01f172b40d15" name="Default Changelist" comment="" />
+      <created>1594602773456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594602773456</updated>
+      <workItem from="1594602777703" duration="2502000" />
+      <workItem from="1594892625456" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="27" width="676" height="691" key="#Bar" timestamp="1594603593992">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="340" y="27" width="676" height="691" key="#Bar/0.27.1366.691@0.27.1366.691" timestamp="1594603593992" />
+    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594603042495">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.691@0.27.1366.691" timestamp="1594603042495" />
+    <state x="491" y="72" width="374" height="607" key="#com.intellij.ide.util.MemberChooser" timestamp="1594603700338">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="491" y="72" width="374" height="607" key="#com.intellij.ide.util.MemberChooser/0.27.1366.691@0.27.1366.691" timestamp="1594603700338" />
+    <state x="415" y="164" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594603590481">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="415" y="164" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.691@0.27.1366.691" timestamp="1594603590481" />
+    <state x="466" y="130" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594892865850">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="466" y="130" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.691@0.27.1366.691" timestamp="1594892865850" />
+    <state width="1320" height="51" key="GridCell.Tab.0.bottom" timestamp="1594643386619">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="51" key="GridCell.Tab.0.bottom/0.27.1366.691@0.27.1366.691" timestamp="1594643386619" />
+    <state width="1320" height="51" key="GridCell.Tab.0.center" timestamp="1594643386617">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="51" key="GridCell.Tab.0.center/0.27.1366.691@0.27.1366.691" timestamp="1594643386617" />
+    <state width="1320" height="51" key="GridCell.Tab.0.left" timestamp="1594643386617">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="51" key="GridCell.Tab.0.left/0.27.1366.691@0.27.1366.691" timestamp="1594643386617" />
+    <state width="1320" height="51" key="GridCell.Tab.0.right" timestamp="1594643386618">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="51" key="GridCell.Tab.0.right/0.27.1366.691@0.27.1366.691" timestamp="1594643386618" />
+    <state x="416" y="250" width="534" height="251" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1594603103927">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="416" y="250" width="534" height="251" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.27.1366.691@0.27.1366.691" timestamp="1594603103927" />
+  </component>
+</project>
