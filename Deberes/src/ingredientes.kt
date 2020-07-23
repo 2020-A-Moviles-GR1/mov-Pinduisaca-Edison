@@ -49,7 +49,7 @@ fun addIngredientes(cocteles : ArrayList<cocteles>, ingredientes : ArrayList<ing
 }
 
 fun mostrarIngredientes(ingredientes : ArrayList<ingredientes>) {
-    println("Ingrese el nombre de la Coctel o para mostrar todos lo Ingredientes: ")
+    println("Ingrese el nombre del Coctel para ver su receta: ")
     val coctel = readLine().toString()
     if (coctel == "") {
         for (i in ingredientes) {

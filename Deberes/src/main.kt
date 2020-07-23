@@ -37,9 +37,9 @@ fun menuPrincipal(cocteles : ArrayList<cocteles>, ingredientes : ArrayList<ingre
 fun menuIngredientes(cocteles : ArrayList<cocteles>, ingredientes : ArrayList<ingredientes>) : Boolean{
    var estado=true
    var aux:String
-  aux="-       Menu de Ingredientes\n"
+  aux="\n       Menu de Ingredientes\n"
   aux+="1. Ingresar nuevo Ingrediente\n"
-  aux+="2. Ingredientes disponibles\n"
+  aux+="2. Mostrar Receta\n"
   aux+="3. Editar un ingrediente\n"
   aux+="4. Eliminar un Ingrediente\n"
   aux+="5. Regresar al Menu de cocteles\n"

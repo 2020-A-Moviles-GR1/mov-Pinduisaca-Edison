@@ -20,28 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d25e89cc-ddb4-48be-8cca-92c48fe931cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bca78d29-89f7-420b-a59f-8bf0fe93e76e.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bca78d29-89f7-420b-a59f-8bf0fe93e76e/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bar_sonthy_v2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bar/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cocteles.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ingredientes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bar_sonthy_v1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocteles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cocteles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ingredientes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ingredientes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/META-INF/Deberes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Deberes/META-INF/Deberes.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt$actualizarCoctel$actualizarCoctel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt$actualizarRecetaCocteles$ingrediente$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt$eliminarCoctel$eliminar_coctel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt$eliminarComp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt$eliminarIngredientes$resultado$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt$leerCoctelesDeArchivo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt$leerIngredientesDeArchivo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Deberes/IngredientesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Deberes/IngredientesKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Deberes/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/cocteles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Deberes/cocteles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Deberes/ingredientes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Deberes/ingredientes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ingredientes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ingredientes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +129,7 @@
       <workItem from="1594578048291" duration="5000" />
       <workItem from="1594602642397" duration="2367000" />
       <workItem from="1594892872556" duration="1552000" />
-      <workItem from="1595207321870" duration="3573000" />
+      <workItem from="1595207321870" duration="6381000" />
     </task>
     <servers />
   </component>
@@ -191,22 +173,22 @@
       <screen x="0" y="27" width="1366" height="691" />
     </state>
     <state x="393" y="116" width="735" height="534" key="FileChooserDialogImpl/0.27.1366.691@0.27.1366.691" timestamp="1593621144893" />
-    <state width="1320" height="104" key="GridCell.Tab.0.bottom" timestamp="1595239347710">
+    <state width="1320" height="282" key="GridCell.Tab.0.bottom" timestamp="1595242552970">
       <screen x="0" y="27" width="1366" height="691" />
     </state>
-    <state width="1320" height="104" key="GridCell.Tab.0.bottom/0.27.1366.691@0.27.1366.691" timestamp="1595239347710" />
-    <state width="1320" height="104" key="GridCell.Tab.0.center" timestamp="1595239347709">
+    <state width="1320" height="282" key="GridCell.Tab.0.bottom/0.27.1366.691@0.27.1366.691" timestamp="1595242552970" />
+    <state width="1320" height="282" key="GridCell.Tab.0.center" timestamp="1595242552969">
       <screen x="0" y="27" width="1366" height="691" />
     </state>
-    <state width="1320" height="104" key="GridCell.Tab.0.center/0.27.1366.691@0.27.1366.691" timestamp="1595239347709" />
-    <state width="1320" height="104" key="GridCell.Tab.0.left" timestamp="1595239347709">
+    <state width="1320" height="282" key="GridCell.Tab.0.center/0.27.1366.691@0.27.1366.691" timestamp="1595242552969" />
+    <state width="1320" height="282" key="GridCell.Tab.0.left" timestamp="1595242552969">
       <screen x="0" y="27" width="1366" height="691" />
     </state>
-    <state width="1320" height="104" key="GridCell.Tab.0.left/0.27.1366.691@0.27.1366.691" timestamp="1595239347709" />
-    <state width="1320" height="104" key="GridCell.Tab.0.right" timestamp="1595239347710">
+    <state width="1320" height="282" key="GridCell.Tab.0.left/0.27.1366.691@0.27.1366.691" timestamp="1595242552969" />
+    <state width="1320" height="282" key="GridCell.Tab.0.right" timestamp="1595242552970">
       <screen x="0" y="27" width="1366" height="691" />
     </state>
-    <state width="1320" height="104" key="GridCell.Tab.0.right/0.27.1366.691@0.27.1366.691" timestamp="1595239347710" />
+    <state width="1320" height="282" key="GridCell.Tab.0.right/0.27.1366.691@0.27.1366.691" timestamp="1595242552970" />
     <state width="263" height="541" key="HiddenNamespacesPopup" timestamp="1593616035042">
       <screen x="0" y="27" width="1366" height="691" />
     </state>
