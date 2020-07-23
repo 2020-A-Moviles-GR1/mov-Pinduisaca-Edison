@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a3c81fc-f447-41cf-bd62-e27117a5b3d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Deberes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deberes/cocteles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deberes/ingredientes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar_sonthy_v1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-android/app/src/main/java/com/example/moviles/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../02-android/app/src/main/java/com/example/moviles/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deberes/out/production/Deberes/DBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deberes/out/production/Deberes/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Deberes/out/production/Deberes/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deberes/src/DBC.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Deberes/src/DBC.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deberes/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Deberes/src/main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eMnWbeyJBOMfXysvLPJjizRDgI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Deberes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="bar_sonthy_v1" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bar" type="JetRunConfigurationType">
+      <module name="bar_sonthy_v1" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a3c81fc-f447-41cf-bd62-e27117a5b3d6" name="Default Changelist" comment="" />
+      <created>1594140361138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594140361138</updated>
+      <workItem from="1594140367506" duration="4791000" />
+      <workItem from="1594575718091" duration="1704000" />
+      <workItem from="1594578046510" duration="585000" />
+      <workItem from="1594602553809" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594146226144">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.691@0.27.1366.691" timestamp="1594146226144" />
+    <state x="415" y="164" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594146221606">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="415" y="164" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.691@0.27.1366.691" timestamp="1594146221606" />
+    <state x="466" y="130" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594602638584">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="466" y="130" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.691@0.27.1366.691" timestamp="1594602638584" />
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom" timestamp="1594146926058">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom/0.27.1366.691@0.27.1366.691" timestamp="1594146926058" />
+    <state width="1320" height="184" key="GridCell.Tab.0.center" timestamp="1594146926056">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.center/0.27.1366.691@0.27.1366.691" timestamp="1594146926056" />
+    <state width="1320" height="184" key="GridCell.Tab.0.left" timestamp="1594146926055">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.left/0.27.1366.691@0.27.1366.691" timestamp="1594146926055" />
+    <state width="1320" height="184" key="GridCell.Tab.0.right" timestamp="1594146926057">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.right/0.27.1366.691@0.27.1366.691" timestamp="1594146926057" />
+    <state width="1320" height="184" key="GridCell.Tab.1.bottom" timestamp="1594146926060">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.1.bottom/0.27.1366.691@0.27.1366.691" timestamp="1594146926060" />
+    <state width="1320" height="184" key="GridCell.Tab.1.center" timestamp="1594146926059">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.1.center/0.27.1366.691@0.27.1366.691" timestamp="1594146926059" />
+    <state width="1320" height="184" key="GridCell.Tab.1.left" timestamp="1594146926058">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.1.left/0.27.1366.691@0.27.1366.691" timestamp="1594146926058" />
+    <state width="1320" height="184" key="GridCell.Tab.1.right" timestamp="1594146926060">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.1.right/0.27.1366.691@0.27.1366.691" timestamp="1594146926060" />
+    <state x="755" y="65" width="529" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594144692712">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="755" y="65" width="529" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.691@0.27.1366.691" timestamp="1594144692712" />
+    <state x="0" y="27" width="1356" height="691" key="new project wizard" timestamp="1594578629266">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="0" y="27" width="1356" height="691" key="new project wizard/0.27.1366.691@0.27.1366.691" timestamp="1594578629266" />
+  </component>
+</project>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d25e89cc-ddb4-48be-8cca-92c48fe931cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Deberes/IngredientesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Deberes/IngredientesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Deberes/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Deberes/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ingredientes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ingredientes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e5ZnSontEXiLVQFsArED2bf3D0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Deberes" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bar" type="JetRunConfigurationType">
+      <module name="Deberes" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d25e89cc-ddb4-48be-8cca-92c48fe931cd" name="Default Changelist" comment="" />
+      <created>1593613580229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593613580229</updated>
+      <workItem from="1593613587304" duration="9234000" />
+      <workItem from="1593711042517" duration="6983000" />
+      <workItem from="1594139813891" duration="1531000" />
+      <workItem from="1594147072060" duration="11702000" />
+      <workItem from="1594575715472" duration="1561000" />
+      <workItem from="1594578048291" duration="5000" />
+      <workItem from="1594602642397" duration="2367000" />
+      <workItem from="1594892872556" duration="1552000" />
+      <workItem from="1595207321870" duration="6381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="211" width="256" height="330" key="#Notifications" timestamp="1594140030103">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="550" y="211" width="256" height="330" key="#Notifications/0.27.1366.691@0.27.1366.691" timestamp="1594140030103" />
+    <state x="0" y="219" width="1356" height="314" key="#SQL_Dialects" timestamp="1593716869751">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="0" y="219" width="1356" height="314" key="#SQL_Dialects/0.27.1366.691@0.27.1366.691" timestamp="1593716869751" />
+    <state x="326" y="34" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594147327264">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="326" y="34" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.691@0.27.1366.691" timestamp="1594147327264" />
+    <state x="415" y="164" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594147324132">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="415" y="164" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.691@0.27.1366.691" timestamp="1594147324132" />
+    <state x="139" y="27" width="1077" height="691" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594147706157">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="139" y="27" width="1077" height="691" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.691@0.27.1366.691" timestamp="1594147706157" />
+    <state x="393" y="116" width="735" height="534" key="FileChooserDialogImpl" timestamp="1593621144893">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="393" y="116" width="735" height="534" key="FileChooserDialogImpl/0.27.1366.691@0.27.1366.691" timestamp="1593621144893" />
+    <state width="1320" height="282" key="GridCell.Tab.0.bottom" timestamp="1595242552970">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.0.bottom/0.27.1366.691@0.27.1366.691" timestamp="1595242552970" />
+    <state width="1320" height="282" key="GridCell.Tab.0.center" timestamp="1595242552969">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.0.center/0.27.1366.691@0.27.1366.691" timestamp="1595242552969" />
+    <state width="1320" height="282" key="GridCell.Tab.0.left" timestamp="1595242552969">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.0.left/0.27.1366.691@0.27.1366.691" timestamp="1595242552969" />
+    <state width="1320" height="282" key="GridCell.Tab.0.right" timestamp="1595242552970">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.0.right/0.27.1366.691@0.27.1366.691" timestamp="1595242552970" />
+    <state width="263" height="541" key="HiddenNamespacesPopup" timestamp="1593616035042">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state width="263" height="541" key="HiddenNamespacesPopup/0.27.1366.691@0.27.1366.691" timestamp="1593616035042" />
+    <state x="166" y="27" width="1199" height="691" key="SettingsEditor" timestamp="1593621162307">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="166" y="27" width="1199" height="691" key="SettingsEditor/0.27.1366.691@0.27.1366.691" timestamp="1593621162307" />
+    <state x="468" y="65" width="419" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593613922399">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="468" y="65" width="419" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.691@0.27.1366.691" timestamp="1593613922399" />
+    <state x="0" y="27" width="616" height="691" key="find.popup" timestamp="1595237149144">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="0" y="27" width="616" height="691" key="find.popup/0.27.1366.691@0.27.1366.691" timestamp="1595237149144" />
+    <state x="0" y="27" width="1356" height="691" key="new project wizard" timestamp="1594602772216">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="0" y="27" width="1356" height="691" key="new project wizard/0.27.1366.691@0.27.1366.691" timestamp="1594602772216" />
+    <state x="346" y="39" width="672" height="678" key="search.everywhere.popup" timestamp="1594151179456">
+      <screen x="0" y="27" width="1366" height="691" />
+    </state>
+    <state x="346" y="39" width="672" height="678" key="search.everywhere.popup/0.27.1366.691@0.27.1366.691" timestamp="1594151179456" />
+  </component>
+</project>
